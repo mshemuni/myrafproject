@@ -1,0 +1,11 @@
+*.pyc
+*.txt
+logfile
+/pyraf/
+/.idea/
+/gui/myraf_old.ui
+/deneme.log
+/deneme.py
+/align.py
+/myobservat/
+/observatories.obs_bck
